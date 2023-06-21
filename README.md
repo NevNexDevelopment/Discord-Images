@@ -1,4 +1,4 @@
 # Discord-Images
 ```diff
-@@ 40 @@
+40 
 ```

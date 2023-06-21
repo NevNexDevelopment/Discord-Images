@@ -1,4 +1,6 @@
 # Discord-Images
-```diff
-40 
-```
+
+
+## Image(s): 40
+
+## Video(s): 1

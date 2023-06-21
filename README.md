@@ -1,6 +1,6 @@
 # Discord-Images
 
 
-## Image(s): 40
+#### Image(s): 40
 
-## Video(s): 1
+#### Video(s): 1
